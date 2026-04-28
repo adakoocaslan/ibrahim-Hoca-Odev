@@ -1,0 +1,1 @@
+print("Halil Ibrahim Ozdemir - Python Git Odevi")

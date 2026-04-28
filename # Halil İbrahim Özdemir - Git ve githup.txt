@@ -1,0 +1,14 @@
+# Halil İbrahim Özdemir - Git ve GitHub Ödevi
+
+Bu proje, bir klasörün terminal kullanılarak GitHub'a nasıl yükleneceğini göstermek amacıyla oluşturulmuştur.
+
+## Proje İçeriği
+1. **README.md**: Proje hakkında genel bilgiler.
+2. **kod.py**: Merhaba dünya çıktısı veren Python kodu.
+3. **notlar.txt**: Ödev notları.
+
+## Kullanılan Komutlar
+* git init
+* git add .
+* git commit -m "İlk commit"
+* git push
